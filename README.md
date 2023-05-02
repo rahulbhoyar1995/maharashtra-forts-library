@@ -16,7 +16,7 @@ import maharashtra_forts
 
 Then, you can access the information about the forts using the `get_forts()` function:
 
-all_forts = maharashtra_forts.forts.all_forts()
+all_forts = maharashtra_forts.all_forts()
 print(all_forts)
 
 This will print a list of dictionaries, with each dictionary containing information about a fort, including its name, location, and historical significance.
@@ -35,4 +35,4 @@ Maharashtra Forts is distributed under the MIT license. Please see the LICENSE f
 
 ## Contact
 
-If you have any questions, comments, or concerns about Maharashtra Forts, please feel free to contact us at rahulbhoyaroffice[@gmail.co](mailto:maharashtra_forts@gmail.com)m
+If you have any questions, comments, or concerns about Maharashtra Forts, please feel free to contact us at [maharashtra_forts@gmail.com](mailto:maharashtra_forts@gmail.com)

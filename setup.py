@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='maharashtra_forts',
-    version='0.2',
+    version='0.3.1',
     author='Rahul Bhoyar',
     author_email='rahulbhoyaroffice@gmail.com',
     description='This is library created for all Fort Lovers in Maharashtra',
