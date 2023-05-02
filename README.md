@@ -6,18 +6,19 @@ This Python package provides information about the forts in the state of Maharas
 
 To install Maharashtra Forts, simply use `pip`:
 
-pip install maharashtra-forts
+`pip install maharashtra-forts`
 
 ## Usage
 
 To use Maharashtra Forts, first import the package:
 
-import maharashtra_forts
+`import maharashtra_forts`
 
 Then, you can access the information about the forts using the `get_forts()` function:
 
-all_forts = maharashtra_forts.all_forts()
-print(all_forts)
+`all_forts = maharashtra_forts.all_forts()`
+
+`print(all_forts)`
 
 This will print a list of dictionaries, with each dictionary containing information about a fort, including its name, location, and historical significance.
 
