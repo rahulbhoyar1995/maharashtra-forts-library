@@ -1,1 +1,5 @@
 venv/
+build/
+dist/
+maharashtra_forts.egg-info/
+test_file.py
