@@ -2,13 +2,13 @@ from setuptools import setup
 
 setup(
     name='maharashtra_forts',
-    version='0.1',
+    version='0.2',
     author='Rahul Bhoyar',
     author_email='rahulbhoyaroffice@gmail.com',
     description='This is library created for all Fort Lovers in Maharashtra',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/rahulbhoyar1995/rrb_package',
+    url='https://github.com/rahulbhoyar1995/maharashtra-forts-library',
     packages=['maharashtra_forts'],
     install_requires=[
         # Dependencies go here
